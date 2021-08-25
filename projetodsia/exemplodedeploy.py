@@ -1,6 +1,6 @@
 
 
-#!pip install -q stramlit & "C:/Users/kenne/anaconda3/python.exe" "c:/projetodsia/exemplodedeploy.py"
+
 
 import pandas as pd 
 import streamlit as st 
